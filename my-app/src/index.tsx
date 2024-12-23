@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import VolumeDiscountSettings from './volume-discount-settings';
+import VolumeDiscountSettings from './components/volume-discount-settings';
 import { AppProvider } from "@shopify/polaris";
 import en from "@shopify/polaris/locales/en.json";
 import '@shopify/polaris/build/esm/styles.css';

@@ -1,6 +1,6 @@
 import React from 'react';
 import { TextField, ColorPicker } from '@shopify/polaris';
-import { HSB } from '../utils/colorConversion';
+import { HSB } from '../../utils/colorConversion';
 
 interface ColorPickerFieldProps {
   label: string;
